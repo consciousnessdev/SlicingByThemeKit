@@ -1,0 +1,19 @@
+{
+  "name": "theme-kit",
+  "version": "1.0.0",
+  "description": "Kit for theme development",
+  "main": "gulpfile.js",
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-rename": "^1.2.3",
+    "gulp-sass": "^4.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,1758 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"roa",
+				"road_rage"
+			],
+			[
+				"road",
+				"roadRage\t(_index.sass)"
+			],
+			[
+				"label--b",
+				"label--brush"
+			],
+			[
+				"red",
+				"red--button"
+			],
+			[
+				"text",
+				"textarea\tTag"
+			],
+			[
+				"to",
+				"toggled"
+			],
+			[
+				"sty",
+				"style\t Style CSS"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"con",
+				"contain\tbackground-size"
+			],
+			[
+				"Helve",
+				"'Helvetica Neue', Helvetica, Arial, sans-serif"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"menu",
+				"menu__container\t(arjs.html)"
+			],
+			[
+				"00",
+				"001-stop.png\t(arjs.html)"
+			],
+			[
+				"clas",
+				"classList\t: DOMTokenList Element"
+			],
+			[
+				"getElementBy",
+				"getElementsByClassName\t( classNames: DOMString ): HTMLCollection Element"
+			],
+			[
+				"html",
+				"htmlboiler\thtmlboiler"
+			],
+			[
+				"move",
+				"move--right"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"c",
+				"content"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"fa-arr",
+				"fa-arrow-right\t font-awesome.min.css"
+			],
+			[
+				"Com",
+				"ComfortaaBold"
+			],
+			[
+				"fontf",
+				"font-family\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"hea",
+				"header_bg.jpg\tw:1366 h:911"
+			],
+			[
+				"image",
+				"background-image\tproperty"
+			],
+			[
+				"get",
+				"router.get(path, [callback, ...] callback)"
+			],
+			[
+				"router",
+				"router〔variable〕"
+			],
+			[
+				"func",
+				"function_without_name"
+			],
+			[
+				"ajax",
+				"ajax\t$.ajax()"
+			],
+			[
+				"ge",
+				"get\t.get()"
+			],
+			[
+				"proses",
+				"processJSON"
+			],
+			[
+				"marke",
+				"markers"
+			],
+			[
+				"mar",
+				"markers"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"dri",
+				"dribbbleUsername"
+			],
+			[
+				"im",
+				"images\t(index.html)"
+			],
+			[
+				"Json",
+				"JSON_parse\t( json: string ): any JSON"
+			],
+			[
+				"grid",
+				"grid-span"
+			],
+			[
+				"incl",
+				"include\t@include"
+			],
+			[
+				"lef",
+				"left-bar\t(index.html)"
+			],
+			[
+				"var",
+				"vars/"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"media",
+				"media\t@media"
+			],
+			[
+				"par",
+				"par-1\t(style.css)"
+			],
+			[
+				"par-",
+				"par-1\t(style.css)"
+			],
+			[
+				"ligh",
+				"lighten\tlighten()"
+			],
+			[
+				"light",
+				"lightness\tlightness()"
+			],
+			[
+				"th",
+				"three"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"padd",
+				"padding-box"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"meta",
+				"meta\tTag"
+			],
+			[
+				"fonfa",
+				"font-family"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"row",
+				"row--resizeh\t style.css"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"fos",
+				"font-size"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"inlin",
+				"inline"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"texa",
+				"text-align"
+			],
+			[
+				"Helv",
+				"HelveticaRoman"
+			],
+			[
+				"card--bo",
+				"card--border\t(style.css)"
+			],
+			[
+				"bordr",
+				"border-radius"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"footer",
+				"footer--resize\t(style.css)"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"fons",
+				"font-size"
+			],
+			[
+				"Hel",
+				"HelveticaRoman"
+			],
+			[
+				"backc",
+				"background-color"
+			],
+			[
+				"fun",
+				"function_with_name"
+			],
+			[
+				"onc",
+				"onchange\t: EventHandler Document"
+			],
+			[
+				"form",
+				"formAct"
+			],
+			[
+				"attr",
+				"setAttribute\t( name: DOMString, value: DOMString ): void Element"
+			],
+			[
+				"functi",
+				"function_without_name"
+			],
+			[
+				"sc",
+				"screen\t(style.css)"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"s",
+				"style/"
+			],
+			[
+				"med",
+				"media query iphone 4\tiphone 4"
+			],
+			[
+				"jquery-",
+				"jquery-3.3.1.min.js"
+			],
+			[
+				"typo",
+				"_typography.scss"
+			],
+			[
+				"jq",
+				"_jquery_ui.min.scss"
+			],
+			[
+				"termni",
+				"terminology/"
+			],
+			[
+				"hml",
+				"htmlboiler\thtmlboiler"
+			],
+			[
+				"ht",
+				"htmlboiler\thtmlboiler"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"foot",
+				"footer-nav\t(index.html)"
+			],
+			[
+				"print",
+				"print_r〔function〕"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"wha",
+				"what-info-new-content-title\t(index.html)"
+			],
+			[
+				"what",
+				"what-info-new-img\t(index.html)"
+			],
+			[
+				"twit",
+				"twitterBtn\t(main.scss)"
+			],
+			[
+				"rss",
+				"rssBtn\t(main.scss)"
+			],
+			[
+				"base",
+				"base-color\t main.scss"
+			],
+			[
+				"textal",
+				"text-align"
+			],
+			[
+				"about",
+				"about-me-head\t(index.html)"
+			],
+			[
+				"unde",
+				"underline-color\t _mixin.scss"
+			],
+			[
+				"pro",
+				"project-work-wrapper-info\t(index.html)"
+			],
+			[
+				"proje",
+				"project-work-wrapper"
+			],
+			[
+				"ri",
+				"rig\t(_mixin.scss)"
+			],
+			[
+				"bg",
+				"bg-color\t main.scss"
+			],
+			[
+				"tea",
+				"text-align"
+			],
+			[
+				"content-",
+				"content--hire-button\t(index.html)"
+			],
+			[
+				"contet",
+				"content--hire\t(index.html)"
+			],
+			[
+				"suff",
+				"suffix_1\t style.css"
+			],
+			[
+				"pre",
+				"prefix_1\t style.css"
+			],
+			[
+				"cle",
+				"clearfix\t style.css"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"conte",
+				"content"
+			],
+			[
+				"content--",
+				"content--info\t(index.html)"
+			],
+			[
+				"bo",
+				"bold"
+			],
+			[
+				"bottom",
+				"border-bottom"
+			],
+			[
+				"active",
+				"active-color\t main.scss"
+			],
+			[
+				"nth",
+				"nth\tnth() returns a specific item in a list"
+			],
+			[
+				"header",
+				"header-nav\t(index.html)"
+			],
+			[
+				"heade",
+				"header-logo-spec\t(index.html)"
+			],
+			[
+				"contai",
+				"container_12"
+			],
+			[
+				"gri",
+				"grid_3\t style.css"
+			],
+			[
+				"container",
+				"container_12\t(style.css)"
+			],
+			[
+				"fon",
+				"font-awesome\t(_vendor.scss)"
+			],
+			[
+				"fonta",
+				"font-awesome\t(_vendor.scss)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 10017,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/src/sass/components/_index.sass",
+			"settings":
+			{
+				"buffer_size": 4943,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/dist/css/build.min.css",
+			"settings":
+			{
+				"buffer_size": 4682,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/src/sass/main.sass",
+			"settings":
+			{
+				"buffer_size": 115,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/src/sass/components/_font.sass",
+			"settings":
+			{
+				"buffer_size": 283,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 345.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ter",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"prefere",
+				"Preferences: Settings"
+			],
+			[
+				"termi",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"termo",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"sch",
+				"UI: Select Color Scheme"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"sass",
+				"Snippet: +include - Sass syntax"
+			],
+			[
+				"bem",
+				"Run eCSStractor (with BEM Nesting and Comments)"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"pre",
+				"Preferences: Settings"
+			],
+			[
+				"sche",
+				"UI: Select Color Scheme"
+			],
+			[
+				"the",
+				"UI: Select Theme"
+			],
+			[
+				"font",
+				"FontCycler - Prev Font"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"e",
+				"Run eCSStractor"
+			],
+			[
+				"SETTING",
+				"Preferences: Settings"
+			],
+			[
+				"HTML",
+				"Set Syntax: HTML"
+			],
+			[
+				"emme",
+				"Set Syntax: Emmet"
+			],
+			[
+				"ui",
+				"UI: Select Color Scheme"
+			],
+			[
+				"eCss",
+				"Run eCSStractor"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"css",
+				"Run eCSStractor (with BEM Nesting)"
+			],
+			[
+				"bea",
+				"HTMLBeautify"
+			],
+			[
+				"",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"schme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"csspro",
+				"Format CSS: Expanded (Break Selectors)"
+			],
+			[
+				"pref",
+				"Preferences: Settings"
+			],
+			[
+				"css fo",
+				"Format CSS: Expanded"
+			],
+			[
+				"cexp",
+				"Format CSS: Expanded (Break Selectors)"
+			],
+			[
+				"csscl",
+				"Format CSS: Expanded (Break Selectors)"
+			],
+			[
+				"clean",
+				"CleanCSS: Clean current file"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"scheme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"termin",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"browese",
+				"Preferences: Browse Packages"
+			],
+			[
+				"wrapt",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wrap",
+				"CursorRuler: Wrap Lines"
+			],
+			[
+				"json",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"term",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"schem",
+				"Schemr: Next scheme"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"set: ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"ui sele",
+				"UI: Select Color Scheme"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"sele",
+				"UI: Select Color Scheme"
+			],
+			[
+				"te",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"uis",
+				"UI: Select Color Scheme"
+			],
+			[
+				"prefix",
+				"Autoprefix CSS"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"setcss",
+				"Set Syntax: CSS"
+			],
+			[
+				"setht",
+				"Set Syntax: HTML"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"t",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"variable",
+				"Snippet: $variable"
+			],
+			[
+				"merge",
+				"Merge Variables"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"coloir",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"open",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"Boxy",
+				"Boxy Theme: Preferences"
+			],
+			[
+				"selec",
+				"UI: Select Color Scheme"
+			],
+			[
+				"doc",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"do",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"vir",
+				"View In Browser"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"view in",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"view",
+				"View: Toggle Minimap"
+			],
+			[
+				"set syntaht",
+				"Set Syntax: HTML"
+			],
+			[
+				"project manager",
+				"Project Manager: Import *.sublime-project File"
+			],
+			[
+				"gitg",
+				"Preferences: GitGutter Key Bindings"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"vi",
+				"View In Browser"
+			],
+			[
+				"Install",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"js ",
+				"CodeFormatter: Format as Javascript Syntax"
+			],
+			[
+				"forma",
+				"CodeFormatter: Format Code"
+			]
+		],
+		"width": 641.0
+	},
+	"console":
+	{
+		"height": 377.0,
+		"history":
+		[
+			"print(\"tes\")",
+			"tes"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/abfs87/Workspace/Web/SlicingByThemeKit",
+		"/home/abfs87/Workspace/Web/SlicingByThemeKit/app",
+		"/home/abfs87/Workspace/Web/SlicingByThemeKit/app/dist",
+		"/home/abfs87/Workspace/Web/SlicingByThemeKit/app/dist/css",
+		"/home/abfs87/Workspace/Web/SlicingByThemeKit/app/dist/fonts",
+		"/home/abfs87/Workspace/Web/SlicingByThemeKit/app/src",
+		"/home/abfs87/Workspace/Web/SlicingByThemeKit/app/src/assets",
+		"/home/abfs87/Workspace/Web/SlicingByThemeKit/app/src/assets/fonts",
+		"/home/abfs87/Workspace/Web/SlicingByThemeKit/app/src/sass",
+		"/home/abfs87/Workspace/Web/SlicingByThemeKit/app/src/sass/components"
+	],
+	"file_history":
+	[
+		"/home/abfs87/Workspace/Web/Crafted_pcs/SEMBARANGAN/style.css",
+		"/home/abfs87/Workspace/Web/SlicingByThemeKit/app/dist/fonts/road_rage.ttf",
+		"/home/abfs87/Workspace/Web/Crafted_pcs/SEMBARANGAN/index.html",
+		"/home/abfs87/Workspace/Web/SlicingByThemeKit/app/dist/css/build.min.css",
+		"/home/abfs87/Workspace/Web/SlicingByThemeKit/app/src/sass/components/_font.sass",
+		"/home/abfs87/Workspace/Web/SlicingByThemeKit/gulpfile.js",
+		"/home/abfs87/Workspace/Web/SlicingByThemeKit/app/src/sass/components/_color.sass",
+		"/home/abfs87/Workspace/Web/SlicingByThemeKit/app/src/sass/main.sass",
+		"/home/abfs87/Pictures/WebDesignHD/vantripper_home.jpg",
+		"/home/abfs87/Workspace/Web/SelfAndOtherChat/apps.css",
+		"/home/abfs87/Workspace/Web/SelfAndOtherChat/apps.js",
+		"/home/abfs87/Workspace/Web/SelfAndOtherChat/apps.html",
+		"/home/abfs87/Workspace/Web/ToneAndQuran/AudioRecordJS/css/reset.css",
+		"/home/abfs87/Workspace/Web/ToneAndQuran/AudioRecordJS/js/main.js",
+		"/home/abfs87/Workspace/Web/ToneAndQuran/AudioRecordJS/css/main.css",
+		"/home/abfs87/Workspace/Web/ToneAndQuran/AudioRecordJS/arjs.html",
+		"/home/abfs87/Workspace/Web/consciousnessdev.github.io/devsites/portfolio/asites/index.html",
+		"/home/abfs87/Workspace/Web/consciousnessdev.github.io/devsites/portfolio/asites/assets/css/index.css",
+		"/home/abfs87/.config/sublime-text-3/Packages/Alignment/Default (Linux).sublime-keymap",
+		"/home/abfs87/Workspace/Web/consciousnessdev.github.io/devsites/portfolio/drbbble/index.html",
+		"/home/abfs87/Workspace/Web/consciousnessdev.github.io/devsites/portfolio/drbbble/css/style.css",
+		"/home/abfs87/.config/sublime-text-3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/home/abfs87/Workspace/Web/consciousnessdev.github.io/devsites/portfolio/drbbble/js/script.js",
+		"/home/abfs87/Workspace/Web/express_codepolitan2/views/layout/base.jade",
+		"/home/abfs87/Workspace/Web/express_codepolitan2/views/index.jade",
+		"/home/abfs87/Workspace/Web/express_codepolitan2/views/layout/sidebar.jade",
+		"/home/abfs87/Workspace/Web/express_codepolitan2/views/layout/nav.jade",
+		"/home/abfs87/Workspace/Web/express_codepolitan2/views/layout/js.jade",
+		"/home/abfs87/Workspace/Web/express_codepolitan2/views/layout/footer.jade",
+		"/home/abfs87/Workspace/Web/express_codepolitan/routes/index.js",
+		"/home/abfs87/Workspace/Web/express_codepolitan/views/tes7.jade",
+		"/home/abfs87/Workspace/Web/express_codepolitan/views/tes4.jade",
+		"/home/abfs87/Workspace/Web/express_codepolitan/views/tes2.jade",
+		"/tmp/.fr-AiIit2/test.js",
+		"/home/abfs87/Workspace/Web/express_codepolitan/views/index.jade",
+		"/home/abfs87/Workspace/Web/express_codepolitan/views/tes.jade",
+		"/home/abfs87/Workspace/Web/express_codepolitan/package.json",
+		"/home/abfs87/Workspace/Web/express_apps/package.json",
+		"/home/abfs87/Workspace/Web/gmaps_api/new_v/index.html",
+		"/home/abfs87/Workspace/Web/gmaps_api/new_v/new_v.progress",
+		"/home/abfs87/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/abfs87/.config/sublime-text-3/Packages/Javascript Beautify/Default (Linux).sublime-keymap",
+		"/home/abfs87/Workspace/Web/sass_project/porfolio_wsass/index.html",
+		"/home/abfs87/Workspace/Web/sass_project/porfolio_wsass/sass/style.scss",
+		"/home/abfs87/Workspace/Web/sass_project/porfolio_wsass/config.rb",
+		"/home/abfs87/Workspace/Web/sass_project/porfolio_wsass/stylesheets/style.css",
+		"/home/abfs87/Workspace/Web/sass_project/porfolio_wsass/javascripts/image_parser.js",
+		"/home/abfs87/Workspace/Web/sass_project/porfolio_wsass/project.progress",
+		"/home/abfs87/Workspace/Web/sass_project/porfolio_wsass/json/images.json",
+		"/home/abfs87/Workspace/Web/sass_project/porfolio_wsass/json/images_v2.json",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/25.Asymmetric Grids/sass/style.scss",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/25.Asymmetric Grids/index.html",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/25.Asymmetric Grids/sass/vars/_grid.scss",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/24.Creating and Using a Symmetrical Grid/sass/vars/_grid.scss",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/23.Installing Singularity Grid System/sass/sass.scss",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/24.Creating and Using a Symmetrical Grid/sass/style.scss",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/24.Creating and Using a Symmetrical Grid/index.html",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/24.Creating and Using a Symmetrical Grid/config.rb",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/24.Creating and Using a Symmetrical Grid/css/style.css",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/23.Installing Singularity Grid System/config.rb",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/22.Installing and Using Sass Globbing/sass/sass.scss",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/22.Installing and Using Sass Globbing/sass/vars/_type.scss",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/22.Installing and Using Sass Globbing/sass/vars/grid/_width.scss",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/22.Installing and Using Sass Globbing/css/sass.css",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/22.Installing and Using Sass Globbing/sass/vars/_colors.scss",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/22.Installing and Using Sass Globbing/sass/_colors.scss",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/22.Installing and Using Sass Globbing/config.rb",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/21.Extending Sass and Writing a Config file/config.rb",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/21.Extending Sass and Writing a Config file/sass/sass.scss",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/20.ATContent - Better Media Queries in Sass/css/css.css",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/20.ATContent - Better Media Queries in Sass/css/sass.scss",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/20.ATContent - Better Media Queries in Sass/css/sass.css",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/19.Placeholder Selectors/css/css.css",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/19.Placeholder Selectors/css/sass.scss",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/16.While Loops/css/style.css",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/16.While Loops/css/style.scss",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/17.livereload saja",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/15.For Loops/css/style.scss",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/15.For Loops/index.html",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/15.For Loops/css/style.css",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/14.Output Style/css/style.scss",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/14.Output Style/sass output.txt",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/14.Output Style/css/style.css",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/13.Build Your Own Function - Part 3/css/style.scss",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/12.Build Your Own Function - Part 2/css/style.scss",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/12.Build Your Own Function - Part 2/index.html",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/12.Build Your Own Function - Part 2/css/style.css",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/11.Build Your Own Function/css/style.scss",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/11.Build Your Own Function/css/style.css",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/10.Built in Functions/css/style.scss",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/8.Using Lists and @each/index.html",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/8.Using Lists and @each/css/style.scss",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/8.Using Lists and @each/css/style.css",
+		"/home/abfs87/Workspace/pentest/QRLJacking/QrlJacking-Framework/QRLJacker.py",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/7.Import & Parent Reference/css/style.scss",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/7.Import & Parent Reference/index.html",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/6.Creating Configurable Shapes Using Mixins/index.html",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/6.Creating Configurable Shapes Using Mixins/css/style.scss",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/6.Creating Configurable Shapes Using Mixins/css/style.css",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/5.Selector Inheritance/css/style.scss",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/5.Selector Inheritance/index.html",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/4.Using Mixins/index.html",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/4.Using Mixins/css/style.scss",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/3.Nesting Your Sass/index.html",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/3.Nesting Your Sass/css/style.scss",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/3.Nesting Your Sass/css/style.css",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/2.The Basics of Variables in Sass/index.html",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/2.The Basics of Variables in Sass/css/style.scss",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/2.The Basics of Variables in Sass/css/style.css",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/2.The Basics of Variables in Sass",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/2.The Basics of Variables in Sass/style.css",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/2.The Basics of Variables in Sass/style.scss",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/style.scss",
+		"/home/abfs87/Workspace/Web/slicing_recehpurpose/index.html",
+		"/home/abfs87/Workspace/Web/slicing_recehpurpose/style/style.css",
+		"/home/abfs87/Workspace/Web/slicing_recehpurpose/catatan.md",
+		"/home/abfs87/Workspace/Web/slicing_recehpurpose/style/font-awesome.min.css",
+		"/home/abfs87/Workspace/Web/slicing_recehpurpose/style/reset.css",
+		"/home/abfs87/Workspace/Web/Crafted_pcs/datepicker.html",
+		"/home/abfs87/Workspace/Web/slicing_recehpurpose/design.png",
+		"/home/abfs87/Workspace/Web/slicing_recehpurpose/script/script.js",
+		"/home/abfs87/Workspace/Web/slicing_recehpurpose/style.css",
+		"/home/abfs87/Workspace/Web/bracket_psd2html/stylesheets/partials/_media-queries.scss",
+		"/home/abfs87/Workspace/Web/bracket_psd2html/stylesheets/modules/_mixin.scss",
+		"/home/abfs87/Workspace/Web/bracket_psd2html/index.html",
+		"/home/abfs87/Workspace/Web/bracket_psd2html/stylesheets/main.scss",
+		"/home/abfs87/Workspace/Web/bracket_psd2html/style.css",
+		"/home/abfs87/Workspace/Web/bracket_psd2html/stylesheets/partials/_typography.scss"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 275.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"road_rage",
+			"(\"./",
+			"photos",
+			"./app/assets/",
+			"photos",
+			"\"dist/",
+			"../assets",
+			"images",
+			"=",
+			"}",
+			"{",
+			"\"]",
+			"<div class=\"item__info info--\"></div>",
+			"<div class=\"item__info\"></div>",
+			"__lineh",
+			" left__chat",
+			"32",
+			"2",
+			"90%",
+			"&lArr; Click to Record",
+			"pause",
+			"play",
+			"32px",
+			"100px",
+			"background",
+			"menu__item",
+			"header--softgray",
+			"<div class=\"testimony__header\">\"Lorem ipsum dolor sit amet\"</div>",
+			"                      <div class=\"testimony__header\">\"Lorem ipsum dolor sit amet\"</div>",
+			"<div class=\"testimony__header\">\"Lorem ipsum dolor sit amet\"</div>\n                    <div class=\"testimony__par par--lightsoftblue\">John Doe, USA, 740 GMAT</div>",
+			"                    <div class=\"testimony__header\">\"Lorem ipsum dolor sit amet\"</div>\n                    <div class=\"testimony__par par--lightsoftblue\">John Doe, USA, 740 GMAT</div>\n",
+			"<div class=\"testimony__header\">\"Lorem ipsum dolor sit amet\"</div>\n                    <div class=\"testimony__par par--lightsoftblue\">John Doe, USA, 740 GMAT</div>",
+			"testimony--softblue",
+			".testimony--softblue",
+			"<div class=\"service__top top--lightred\">Conversational Format</div>\n                    <div class=\"service__header header--deepblue\">Dialoge with a tutor</div>\n                    <div class=\"service__par par--deepgray\">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas facere cum non voluptas beatae. Iusto quo molestiae culpa neque laboriosam.</div>",
+			".main--softblue",
+			"competit",
+			"class=\"service__par\"",
+			"Lorem",
+			"class=\"service__par\">",
+			"class=\"service__par\"",
+			"  .header--deepblue {\n  }",
+			"  }",
+			"\n  .header--deepblue {\n  ",
+			"  .header--deepblue {\n",
+			"lightre",
+			".top--lightred",
+			"  .top--lightred {\n  }",
+			".top--lightred",
+			"header-content__img",
+			".button--lightred",
+			"assets/",
+			"card__li",
+			"  background: rgba(255,255,255,0.7);",
+			"background: rgba(255,255,255,0.7);",
+			"background: url('../assets/img/background_content.jpg') no-repeat center;",
+			" -1px 9px 20px -4px rgba(0, 0, 0, 0.5);",
+			"<div class=\"grid__icon\">",
+			"\"></i></span></div>\n                </div>",
+			"#content",
+			"before",
+			"after",
+			"<li class=\"card__item\">",
+			"-2px 13px 43px -13px rgba(0,0,0,0.55)",
+			"card--shadow",
+			"<div class=\"card__logo\">",
+			"div",
+			"div class=\"card__logo\"",
+			"#con",
+			"ey\">",
+			"<div class=\"card__info label--darkgrey\"></div>",
+			"<div class=\"icon__container\"></div>",
+			"<div class=\"grid__number\">",
+			"<div class=\"grid__info\"></div>",
+			"grid__number",
+			">^.grid__number",
+			"^.grid__number",
+			"<div class=\"logo__container\"></div>\n                  <div class=\"card__label\"></div>\n                  <div class=\"card__info\"></div>",
+			"header",
+			", role='button', data-toggle='offcanvas').sidebar-toggle",
+			"sidebar",
+			"='#', role='button', data-toggle='push-menu').",
+			", role='button', data-toggle='push-menu'",
+			"sidebarMenu",
+			"sidebar-men",
+			");",
+			"username",
+			"name",
+			"console.log(markers);",
+			"lat",
+			"uluru",
+			"?90h99a",
+			"fonts/",
+			"url('",
+			"../",
+			"?90h99a",
+			"'fonts/",
+			":before",
+			"fonts/",
+			"title",
+			"data",
+			"numberOfShots",
+			":",
+			"},",
+			"\"https://quotefancy.com/media/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"./dist/",
+			"dist"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10017,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								501,
+								501
+							]
+						],
+						"settings":
+						{
+							"SL.13.region_keys":
+							[
+							],
+							"auto_complete": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"rulers":
+							[
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/src/sass/components/_index.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4943,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								296,
+								296
+							]
+						],
+						"settings":
+						{
+							"SL.14.region_keys":
+							[
+							],
+							"SL.16.region_keys":
+							[
+							],
+							"SL.17.region_keys":
+							[
+							],
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Adventure_Time.tmTheme",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"open_with_edit": true,
+							"rulers":
+							[
+								25.9,
+								26.2
+							],
+							"syntax": "Packages/Sass/Syntaxes/Sass.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 150.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/dist/css/build.min.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4682,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1434,
+								1434
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Adventure_Time.tmTheme",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"rulers":
+							[
+							],
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 825.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/src/sass/main.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 115,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								58,
+								58
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Adventure_Time.tmTheme",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"rulers":
+							[
+							],
+							"syntax": "Packages/Sass/Syntaxes/Sass.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/src/sass/components/_font.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 283,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								79,
+								79
+							]
+						],
+						"settings":
+						{
+							"SL.16.region_keys":
+							[
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Adventure_Time.tmTheme",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"rulers":
+							[
+							],
+							"syntax": "Packages/Sass/Syntaxes/Sass.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 75.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 282.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.nodejs":
+	{
+		"height": 186.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "SlicingByThemeKit.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"_color",
+				"app/src/sass/components/_color.sass"
+			],
+			[
+				"",
+				"3.Nesting Your Sass/css/style.css"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"sty",
+				"style/style.css"
+			],
+			[
+				"cata",
+				"catatan.md"
+			],
+			[
+				"rese",
+				"style/reset.css"
+			],
+			[
+				"font",
+				"style/font-awesome.min.css"
+			],
+			[
+				"st",
+				"style/style.css"
+			],
+			[
+				"style",
+				"style.css"
+			],
+			[
+				"comp",
+				"stylesheets/vendors/IconHoverEffects/js/component.js"
+			],
+			[
+				"proje",
+				"Sass CSS/project_sass/index.html"
+			],
+			[
+				"project_sass/sty",
+				"Sass CSS/project_sass/style.css"
+			],
+			[
+				"sass/in",
+				"Sass CSS/project_sass/index.html"
+			],
+			[
+				"sass/index",
+				"Sass CSS/project_sass/index.html"
+			],
+			[
+				"note",
+				"Sass CSS/project_sass/sass.note"
+			],
+			[
+				"css",
+				"Sass CSS/style.css"
+			],
+			[
+				"29/",
+				"Javascript/Dasar Pemrograman dengan Javascript - Web Unpas/29-PARAMETER & ARGUMENT PADA JAVASCRIPT/script.js"
+			],
+			[
+				"javas",
+				"Javascript/Belajar javascript untuk pemula/index.html"
+			],
+			[
+				"latihancss3/sty",
+				"Mengenal HTML5 & Mulai belajar CSS3/Mulai belajar CSS3/latihan CSS3/assets/css/style.css"
+			],
+			[
+				"latihan",
+				"Mengenal HTML5 & Mulai belajar CSS3/Mulai belajar CSS3/latihan CSS3/style.css"
+			],
+			[
+				"latihancss3/s",
+				"Mengenal HTML5 & Mulai belajar CSS3/Mulai belajar CSS3/latihan CSS3/style.css"
+			],
+			[
+				"style.c",
+				"Mengenal HTML5 & Mulai belajar CSS3/Mengenal HTML5/latihan HTML5/css/style.css"
+			],
+			[
+				"about",
+				"Mengenal HTML5 & Mulai belajar CSS3/Mengenal HTML5/latihan HTML5/about.html"
+			],
+			[
+				"kont",
+				"HTML & CSS/latihan/kontak.html"
+			],
+			[
+				"prof",
+				"HTML & CSS/latihan/profil.html"
+			],
+			[
+				"member",
+				"member.html"
+			],
+			[
+				"sk",
+				"skripauth.php"
+			],
+			[
+				"heade",
+				"scratch/header.php"
+			],
+			[
+				"foo",
+				"scratch/footer.php"
+			],
+			[
+				"login",
+				"scratch/login.php"
+			],
+			[
+				"in",
+				"index.php"
+			],
+			[
+				"sc",
+				"js/script.js"
+			],
+			[
+				"ind",
+				"index.php"
+			],
+			[
+				"dum",
+				"dummy.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 267.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
