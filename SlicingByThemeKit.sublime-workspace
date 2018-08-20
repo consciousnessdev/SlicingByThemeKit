@@ -4,6 +4,38 @@
 		"selected_items":
 		[
 			[
+				"flex",
+				"flex-direction\t(build.min.css)"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-top\t(build.min.css)"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"top",
+				"top_bg.png"
+			],
+			[
+				"he",
+				"height\t(build.min.css)"
+			],
+			[
+				"font",
+				"font-size\t(build.min.css)"
+			],
+			[
+				"bor",
+				"border-radius\t(build.min.css)"
+			],
+			[
 				"roa",
 				"road_rage"
 			],
@@ -44,10 +76,6 @@
 				"'Helvetica Neue', Helvetica, Arial, sans-serif"
 			],
 			[
-				"font",
-				"font-family\tproperty"
-			],
-			[
 				"menu",
 				"menu__container\t(arjs.html)"
 			],
@@ -70,10 +98,6 @@
 			[
 				"move",
 				"move--right"
-			],
-			[
-				"bac",
-				"background"
 			],
 			[
 				"c",
@@ -140,10 +164,6 @@
 				"markers"
 			],
 			[
-				"mar",
-				"markers"
-			],
-			[
 				"wid",
 				"width"
 			],
@@ -176,10 +196,6 @@
 				"vars/"
 			],
 			[
-				"back",
-				"background-repeat"
-			],
-			[
 				"media",
 				"media\t@media"
 			],
@@ -204,20 +220,12 @@
 				"three"
 			],
 			[
-				"he",
-				"height"
-			],
-			[
 				"tran",
 				"transparent"
 			],
 			[
 				"padd",
 				"padding-box"
-			],
-			[
-				"bor",
-				"border"
 			],
 			[
 				"border",
@@ -506,14 +514,6 @@
 			[
 				"container",
 				"container_12\t(style.css)"
-			],
-			[
-				"fon",
-				"font-awesome\t(_vendor.scss)"
-			],
-			[
-				"fonta",
-				"font-awesome\t(_vendor.scss)"
 			]
 		]
 	},
@@ -523,7 +523,7 @@
 			"file": "app/index.html",
 			"settings":
 			{
-				"buffer_size": 10017,
+				"buffer_size": 10224,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -532,16 +532,25 @@
 			"file": "app/src/sass/components/_index.sass",
 			"settings":
 			{
-				"buffer_size": 4943,
+				"buffer_size": 7083,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "app/dist/css/build.min.css",
+			"file": "/home/abfs87/Desktop/TugasTabelUrffan.html",
 			"settings":
 			{
-				"buffer_size": 4682,
+				"buffer_size": 21390,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/src/sass/components/_color.sass",
+			"settings":
+			{
+				"buffer_size": 158,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
@@ -986,7 +995,7 @@
 		"/home/abfs87/Workspace/Web/SlicingByThemeKit/app",
 		"/home/abfs87/Workspace/Web/SlicingByThemeKit/app/dist",
 		"/home/abfs87/Workspace/Web/SlicingByThemeKit/app/dist/css",
-		"/home/abfs87/Workspace/Web/SlicingByThemeKit/app/dist/fonts",
+		"/home/abfs87/Workspace/Web/SlicingByThemeKit/app/dist/images",
 		"/home/abfs87/Workspace/Web/SlicingByThemeKit/app/src",
 		"/home/abfs87/Workspace/Web/SlicingByThemeKit/app/src/assets",
 		"/home/abfs87/Workspace/Web/SlicingByThemeKit/app/src/assets/fonts",
@@ -995,13 +1004,13 @@
 	],
 	"file_history":
 	[
+		"/home/abfs87/Workspace/Web/SlicingByThemeKit/app/dist/css/build.min.css",
+		"/home/abfs87/Workspace/Web/SlicingByThemeKit/app/src/sass/components/_color.sass",
 		"/home/abfs87/Workspace/Web/Crafted_pcs/SEMBARANGAN/style.css",
 		"/home/abfs87/Workspace/Web/SlicingByThemeKit/app/dist/fonts/road_rage.ttf",
 		"/home/abfs87/Workspace/Web/Crafted_pcs/SEMBARANGAN/index.html",
-		"/home/abfs87/Workspace/Web/SlicingByThemeKit/app/dist/css/build.min.css",
 		"/home/abfs87/Workspace/Web/SlicingByThemeKit/app/src/sass/components/_font.sass",
 		"/home/abfs87/Workspace/Web/SlicingByThemeKit/gulpfile.js",
-		"/home/abfs87/Workspace/Web/SlicingByThemeKit/app/src/sass/components/_color.sass",
 		"/home/abfs87/Workspace/Web/SlicingByThemeKit/app/src/sass/main.sass",
 		"/home/abfs87/Pictures/WebDesignHD/vantripper_home.jpg",
 		"/home/abfs87/Workspace/Web/SelfAndOtherChat/apps.css",
@@ -1140,6 +1149,45 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"-90",
+			"(-90deg",
+			"-90",
+			"90deg",
+			"(-90deg",
+			"-90",
+			"header__content",
+			"#content",
+			"1px",
+			"pointer",
+			"content__service",
+			"service__content",
+			"content__service",
+			"rekon",
+			"content__service",
+			"service__item",
+			"service__list",
+			"label__center",
+			"sidepointer__linev",
+			"label__lside",
+			"label__container",
+			"service__list",
+			"service__container",
+			"content__service",
+			"label__lside",
+			"service__list",
+			"content",
+			"service__content",
+			"service--red",
+			"}",
+			"{",
+			" {\n",
+			"{",
+			"\n\t",
+			" {\n",
+			"{",
+			"what",
+			"\t\n",
+			"stdLato",
 			"road_rage",
 			"(\"./",
 			"photos",
@@ -1228,23 +1276,7 @@
 			");",
 			"username",
 			"name",
-			"console.log(markers);",
-			"lat",
-			"uluru",
-			"?90h99a",
-			"fonts/",
-			"url('",
-			"../",
-			"?90h99a",
-			"'fonts/",
-			":before",
-			"fonts/",
-			"title",
-			"data",
-			"numberOfShots",
-			":",
-			"},",
-			"\"https://quotefancy.com/media/"
+			"console.log(markers);"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1264,7 +1296,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -1273,15 +1305,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 10017,
+						"buffer_size": 10224,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								501,
-								501
+								2278,
+								2278
 							]
 						],
 						"settings":
@@ -1316,10 +1348,10 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1432.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -1328,15 +1360,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4943,
+						"buffer_size": 7083,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								296,
-								296
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1367,69 +1399,91 @@
 							"open_with_edit": true,
 							"rulers":
 							[
-								25.9,
-								26.2
+								14.9,
+								15.2
 							],
 							"syntax": "Packages/Sass/Syntaxes/Sass.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 150.0,
+						"translation.y": 1822.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "app/dist/css/build.min.css",
+					"file": "/home/abfs87/Desktop/TugasTabelUrffan.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4682,
+						"buffer_size": 21390,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1434,
-								1434
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"auto_complete_triggers":
+							"rulers":
 							[
-								{
-									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								}
+								-0.1,
+								0.2
 							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2028.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/src/sass/components/_color.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 158,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								147,
+								147
+							]
+						],
+						"settings":
+						{
 							"color_scheme": "Packages/User/Color Highlighter/themes/Adventure_Time.tmTheme",
 							"editorconfig": true,
 							"ensure_newline_at_eof_on_save": true,
 							"rulers":
 							[
 							],
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"syntax": "Packages/Sass/Syntaxes/Sass.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 825.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 4,
 					"file": "app/src/sass/main.sass",
 					"semi_transient": false,
 					"settings":
@@ -1447,6 +1501,9 @@
 						],
 						"settings":
 						{
+							"SL.16.region_keys":
+							[
+							],
 							"auto_complete_triggers":
 							[
 								{
@@ -1472,11 +1529,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 5,
 					"file": "app/src/sass/components/_font.sass",
 					"semi_transient": false,
 					"settings":
@@ -1488,13 +1545,16 @@
 						"selection":
 						[
 							[
-								79,
-								79
+								18,
+								18
 							]
 						],
 						"settings":
 						{
 							"SL.16.region_keys":
+							[
+							],
+							"SL.17.region_keys":
 							[
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/Adventure_Time.tmTheme",
@@ -1511,7 +1571,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -1585,6 +1645,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"_colo",
+				"app/src/sass/components/_color.sass"
+			],
 			[
 				"_color",
 				"app/src/sass/components/_color.sass"

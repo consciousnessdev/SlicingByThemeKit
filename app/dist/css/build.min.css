@@ -40,6 +40,15 @@ table {
 .header-content {
   /* .header-content__page */
   /* .header-content__main */ }
+  .header-content__page {
+    background: url("../photos/1.jpg") no-repeat;
+    background-size: 100% 100%;
+    height: 100%; }
+  .header-content__footer {
+    background: url("../images/top_bg2.png") no-repeat;
+    background-size: 100% 100%;
+    height: 100px;
+    margin-top: -35px; }
 
 .header {
   /* .header__container */ }
@@ -74,16 +83,31 @@ table {
   .nav__list {
     display: flex;
     justify-content: space-around;
-    width: 95%; }
+    width: 85%; }
   .nav__item {
     display: flex;
     align-items: center; }
+  .nav__middle {
+    font-size: 12pt; }
+  .nav__bottom {
+    width: 100%;
+    text-align: right; }
   .nav__footer {
     color: #000000;
     font-family: "Work Sans"; }
 
 .item-container {
   /* .item-container__site */ }
+  .item-container__site {
+    background-color: #E44839;
+    height: 60px;
+    width: 60px;
+    padding: 20px;
+    border-radius: 90px;
+    margin-top: 60px;
+    display: flex;
+    align-items: center;
+    flex-direction: column; }
 
 .label {
   /* .label--hw */
@@ -99,7 +123,15 @@ table {
   /* .label--middlesz */
   /* .label__container */
   /* .label__lside */
-  /* .label__center */ }
+  /* .label__center */
+  /* .label__wrapper */ }
+  .label--hw {
+    font-size: 16pt;
+    margin: 5px 0; }
+  .label--lato {
+    font-family: "Lato"; }
+  .label--light {
+    font-weight: lighten; }
   .label--brush {
     font-family: roadRage; }
   .label--white {
@@ -107,9 +139,28 @@ table {
   .label--regular {
     font-family: "Pathway Gothic One"; }
   .label--head {
-    font-family: "Pathway Gothic One"; }
+    font-family: "Pathway Gothic One";
+    font-size: 36pt; }
   .label--info {
-    font-family: "Lato"; }
+    font-family: "Lato";
+    font-size: 10pt; }
+  .label__container {
+    display: flex;
+    margin: 15pt auto; }
+  .label__lside {
+    width: 20%; }
+  .label__center {
+    text-align: center;
+    width: 60%; }
+  .label__wrapper {
+    height: 250px;
+    margin: 0 auto; }
+
+/* HYBRID */
+.label__lside .sidelabel__linev {
+  display: block;
+  position: absolute;
+  transform: rotate(90deg); }
 
 .red {
   /* .red--button */
@@ -123,20 +174,43 @@ table {
     border-radius: 20px;
     justify-content: center; }
 
+#content {
+  margin-top: -40px; }
+
 .main {
   /* .main__container */
   /* .main__label */
   /* .main__button */ }
+  .main__container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-around; }
+  .main__label {
+    font-size: 50pt;
+    line-height: 1.5;
+    margin: 100px auto; }
+  .main__button {
+    width: 375px;
+    height: 55px;
+    line-height: 55px;
+    margin: 0 auto;
+    box-shadow: 0px 0px 90px -10px black;
+    font-size: 16pt; }
 
 .button {
   /* .button--red */ }
+  .button--red {
+    background-color: #E44839; }
 
 .main-content {
   /* .main-content__container */ }
 
 .content {
   /* .content__service */
+  /* REKONSTRUKSI */
   /* .content__label */
+  /* REKONSTRUKSI */
   /* .content__vid */
   /* .content__profile */
   /* .content__quote */
@@ -148,30 +222,60 @@ table {
 .pointer {
   /* .pointer__linev */
   /* .pointer__arrowtop */ }
+  .pointer__linev {
+    width: 2px;
+    height: 60px;
+    margin: 0 auto; }
 
 .orange {
   /* .orange--color */ }
+  .orange--color {
+    background-color: #E6981A; }
 
 .sidepointer {
   /* .sidepointer__linev */ }
+  .sidepointer__linev {
+    width: 2px;
+    height: 40px;
+    margin-left: 6px;
+    margin-top: 30px; }
 
 .sidelabel {
   /* .sidelabel__linev */ }
+  .sidelabel__linev {
+    font-family: "Lato";
+    font-size: 9pt;
+    font-weight: bold;
+    letter-spacing: 1px;
+    left: 120px;
+    bottom: -200px; }
 
 .top {
   /* .top__label */ }
+  .top__label {
+    margin: 20px auto;
+    width: 50%; }
 
 .info {
   /* .info--bold */
   /* .info--small */
   /* .info__label */ }
+  .info__label {
+    line-height: 2;
+    margin: 0 auto;
+    width: 70%; }
 
 .service {
   /* .service--red */
   /* .service__container */
+  /* .service__intro */
+  /* .service__content */
   /* .service__list */
   /* .service__item */
   /* .service__button */ }
+  .service__intro {
+    display: flex;
+    flex-direction: column; }
   .service__list {
     font-family: "Pathway Gothic One"; }
 

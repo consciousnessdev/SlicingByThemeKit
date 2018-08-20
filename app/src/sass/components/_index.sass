@@ -1,10 +1,18 @@
 .header-content 
 	/* .header-content__page */
 	&__page 
+		background: url("../photos/1.jpg") no-repeat
+		background-size: 100% 100%
+		height: 100%
 	
 	/* .header-content__main */
 	&__main 
-	
+
+	&__footer
+		background: url("../images/top_bg2.png") no-repeat
+		background-size: 100% 100%
+		height: 100px
+		margin-top: -35px
 
 .header 
 	/* .header__container */
@@ -37,7 +45,7 @@
 	&__list 
 		display: flex
 		justify-content: space-around
-		width: 95%
+		width: 85%
 	/* .nav__item */
 	&__item 
 		display: flex
@@ -48,9 +56,12 @@
 	
 	/* .nav__middle */
 	&__middle 
+		font-size: 12pt
 	
 	/* .nav__bottom */
 	&__bottom 
+		width: 100%
+		text-align: right
 	
 	/* .nav__button */
 	&__button 
@@ -64,17 +75,30 @@
 .item-container 
 	/* .item-container__site */
 	&__site 
+		background-color: $redcalm
+		height: 60px
+		width: 60px
+		padding: 20px
+		border-radius: 90px
+		margin-top: 60px
+		display: flex
+		align-items: center
+		flex-direction: column
 	
 
 .label 
 	/* .label--hw */
 	&--hw 
+		font-size: 16pt
+		margin: 5px 0
 	
 	/* .label--lato */
 	&--lato 
+		font-family: $stdLato
 	
 	/* .label--light */
 	&--light 
+		font-weight: lighten
 	
 	/* .label--brush */
 	&--brush 
@@ -91,6 +115,7 @@
 	/* .label--head */
 	&--head 
 		font-family: $pathwayGothic
+		font-size: 36pt
 	
 	/* .label--bold */
 	&--bold 
@@ -98,6 +123,7 @@
 	/* .label--info */
 	&--info 
 		font-family: $stdLato
+		font-size: 10pt
 	
 	/* .label--lightgray */
 	&--lightgray 
@@ -107,13 +133,28 @@
 	
 	/* .label__container */
 	&__container 
+		display: flex
+		margin: 15pt auto
 	
 	/* .label__lside */
 	&__lside 
-	
+		width: 20%
+
 	/* .label__center */
 	&__center 
+		text-align: center
+		width: 60%
 	
+	/* .label__wrapper */
+	&__wrapper
+		height: 250px
+		margin: 0 auto
+	
+/* HYBRID */
+.label__lside .sidelabel__linev
+	display: block
+	position: absolute
+	transform: rotate(90deg)
 
 .red 
 	/* .red--button */
@@ -130,21 +171,38 @@
 	/* .red--pointer */
 	&--pointer 
 	
+#content 
+	margin-top: -40px
 
 .main 
 	/* .main__container */
 	&__container 
+		display: flex
+		flex-direction: column
+		text-align: center
+		// height: 500px
+		justify-content: space-around
 	
 	/* .main__label */
 	&__label 
+		font-size: 50pt
+		line-height: 1.5
+		margin: 100px auto
 	
 	/* .main__button */
 	&__button 
+		width: 375px
+		height: 55px
+		line-height: 55px;
+		margin: 0 auto
+		box-shadow: 0px 0px 90px -10px rgba(0,0,0,1)
+		font-size: 16pt
 	
 
 .button 
 	/* .button--red */
 	&--red 
+		background-color: $redcalm
 	
 
 .main-content 
@@ -155,10 +213,16 @@
 .content 
 	/* .content__service */
 	&__service 
+
+
+	/* REKONSTRUKSI */
 	
 	/* .content__label */
 	&__label 
 	
+	/* REKONSTRUKSI */
+
+
 	/* .content__vid */
 	&__vid 
 	
@@ -184,6 +248,9 @@
 .pointer 
 	/* .pointer__linev */
 	&__linev 
+		width: 2px
+		height: 60px
+		margin: 0 auto
 	
 	/* .pointer__arrowtop */
 	&__arrowtop 
@@ -192,21 +259,34 @@
 .orange 
 	/* .orange--color */
 	&--color 
+		background-color: $orangelight
 	
 
 .sidepointer 
 	/* .sidepointer__linev */
 	&__linev 
+		width: 2px
+		height: 40px
+		margin-left: 6px
+		margin-top: 30px
 	
 
 .sidelabel 
 	/* .sidelabel__linev */
 	&__linev 
-	
+		font-family: $stdLato
+		font-size: 9pt
+		font-weight: bold
+		letter-spacing: 1px
+		left: 120px
+		bottom: -200px
 
 .top 
 	/* .top__label */
 	&__label 
+		margin: 20px auto
+		width: 50%
+
 	
 
 .info 
@@ -218,15 +298,26 @@
 	
 	/* .info__label */
 	&__label 
+		line-height: 2
+		margin: 0 auto
+		width: 70%
 	
 
 .service 
 	/* .service--red */
 	&--red 
-	
+
 	/* .service__container */
 	&__container 
 	
+	/* .service__intro */	
+	&__intro
+		display: flex
+		flex-direction: column
+
+	/* .service__content */
+	&__content 
+		
 	/* .service__list */
 	&__list 
 		font-family: $pathwayGothic
